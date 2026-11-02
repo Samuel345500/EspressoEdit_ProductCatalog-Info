@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Product description</title>
+    </head>
+    <body>
+        <a href="ProductInfo.html">Back to Product Info</a>
+        <h1>Product #1 Description</h1>
+        <p>This is should display a more detailed description of each product.(the machines in the photos are not for sale. this is a prototype)</p>
+        <p class="price">Price: $249.99</p>
+    </body>
+</html>
